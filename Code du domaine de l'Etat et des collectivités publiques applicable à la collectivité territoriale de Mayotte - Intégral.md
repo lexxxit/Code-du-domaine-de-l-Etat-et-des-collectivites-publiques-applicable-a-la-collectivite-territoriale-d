@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2008-08-30
 
 # Partie législative
 
@@ -118,22 +118,19 @@ publication des dispositions règlementaires correspondantes du code général d
 Toutefois, les immeubles ou droits immobiliers sont cédés à l'amiable lorsque des lois et règlements spéciaux prévoient ce
 mode d'aliénation pour des catégories d'immeubles déterminées.
 
-Les cessions peuvent également ^etre faites à l'amiable :
+Les cessions peuvent également être faites à l'amiable :
 
 1° Lorsque l'adjudication publique a été infructueuse ;
 
 2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
-d'intér^et général ;
+d'intérêt général ;
 
-3° Lorsque l'immeuble ne peut, en raison de sa spécificité, ^etre cédé qu'à un acquéreur déterminé ;
+3° Lorsque l'immeuble ne peut, en raison de sa spécificité, être cédé qu'à un acquéreur déterminé ;
 
 4° Lorsque la valeur vénale n'excède pas des montants fixés par décision de l'organe délibérant de la collectivité
 territoriale de Mayotte pour la collectivité territoriale et les communes.
 
 Les cessions amiables sont autorisées par l'autorité compétente de la collectivité propriétaire.
-
-Le prix des cessions consenties en application du présent article est fixé dans les conditions prévues aux articles L. 221-16
-à L. 221-18.
 
 Dans le cas prévu au premier alinéa du présent article, le prix est, à défaut d'accord amiable, fixé comme en matière
 d'expropriation pour cause d'utilité publique, à moins qu'il n'en soit disposé autrement par les dispositions spéciales
@@ -141,39 +138,19 @@ précitées.
 
 **Nota:**
 
-Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
-
 Ordonnance 2006-460 2006-04-21 art. 8 II : L'article L. 321-2 est abrogé à compter du 1er juillet 2006 sauf en tant qu'il
-concerne l'Etat et ses établissements publics.L'abrogation totale de cet article ne prendra effet qu'à compter de la
+concerne l'Etat et ses établissements publics. L'abrogation totale de cet article ne prendra effet qu'à compter de la
 publication des dispositions règlementaires correspondantes du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-858 du 28 août 2008 - art. 1
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat et des collectivités pub - art. L321-1 (V)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte L221-16 à L221-18
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
-	**Codifié par**:
-
-	  - Ordonnance 92-1139 1992-10-12
-
-	**Créé par**:
-
-	  - Ordonnance no 92-1139 du 12 octobre 1992 relative  - art. 1 () JORF 16 octobre 1992 en vigueur le 1er juillet 1993
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ## LIVRE IV : Dispositions diverses
